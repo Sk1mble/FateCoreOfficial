@@ -70,7 +70,7 @@
   "system": [],
   "dependencies": [],
   "socket": true,
-  "manifest": "https://raw.githubusercontent.com/Sk1mble/fate-core-official/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/Sk1mble/fate-core-official/FoundryV8ToV9/system.json",
   "download": "https://github.com/Sk1mble/fate-core-official/archive/v4.3.27.zip",
   "protected": false,
   "gridDistance": 1
